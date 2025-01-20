@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" src="images/kimi_k1.5.jpeg">
+  <a href="Kimi_k1.5.pdf"><img width="80%" src="images/kimi_k1.5.jpeg"></a>
 </p>
 
 # Kimi k1.5: Scaling Reinforcement Learning with LLMs
@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <a href="Kimi_k1.5.pdf"><img src="images/logo.png" height="16" width="16" style="vertical-align:middle"><b> Report</b></a>
+  <a href="Kimi_k1.5.pdf"><img src="images/logo.png" height="16" width="16" style="vertical-align:middle"><b> Full Report</b></a>
 </p>
 
 🚀 Introducing Kimi k1.5 --- an o1-level multi-modal model
