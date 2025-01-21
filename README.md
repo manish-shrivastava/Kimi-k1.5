@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="Kimi_k1.5.pdf"><img width="80%" src="images/kimi_k1.5.jpeg"></a>
+  <a href="Kimi_k1.5.pdf"><img width="80%" src="images/kimi_k1.5.png"></a>
 </p>
 
 # Kimi k1.5: Scaling Reinforcement Learning with LLMs
