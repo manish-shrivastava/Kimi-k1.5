@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <a href="Kimi_k1.5.pdf"><img src="images/logo.png" height="16" width="16" style="vertical-align:middle"><b> Full Report</b></a>
+  <a href="https://arxiv.org/abs/2501.12599"><img src="images/logo.png" height="16" width="16" style="vertical-align:middle"><b> Full Report</b></a>
 </p>
 
 🚀 Introducing Kimi k1.5 --- an o1-level multi-modal model
